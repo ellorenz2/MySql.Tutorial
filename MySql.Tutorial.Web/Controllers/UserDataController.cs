@@ -17,7 +17,7 @@ namespace MySql.Tutorial.Web.Controllers
     public class UserDataController : ControllerBase
     {
 
-        public static string connectionString = "Data Source=localhost;Database=tutorial_db;userid=tutorial_user;password=&UKijjPn5D";
+        public static string connectionString = "Data Source=localhost;Database=tutorial_db;userid=xxxx;password=xxxxx";
 
         // GET: api/<UserDataController>
         [HttpGet]
