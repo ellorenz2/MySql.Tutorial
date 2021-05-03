@@ -6,7 +6,7 @@ namespace MySql.Tutorial.Data.Test
 {
     public class DataContext_UnitTest
     {
-        public static string connectionString = "Data Source=localhost;Database=tutorial_db;userid=tutorial_user;password=&UKijjPn5D";
+        public static string connectionString = "Data Source=localhost;Database=tutorial_db;userid=xxxxxx;password=xxxxxx";
 
         [Fact]
         public void TestInsertModel()

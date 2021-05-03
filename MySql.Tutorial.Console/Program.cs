@@ -16,7 +16,7 @@ namespace MySql.Tutorial.Console
             }
             
             
-            string connectionString = "Data Source=localhost;Database=tutorial_db;userid=tutorial_user;password=&UKijjPn5D";
+            string connectionString = "Data Source=localhost;Database=tutorial_db;userid=xxxx;password=xxxxx";
 
             MinimalDataContext dataContext = new MinimalDataContext(connectionString);
             var mydataList = dataContext.GetUserData();
