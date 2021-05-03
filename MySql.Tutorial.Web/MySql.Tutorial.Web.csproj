@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -8,6 +8,10 @@
     <ProjectReference Include="..\MySql.Tutorial.Data\MySql.Tutorial.Data.csproj" />
     <ProjectReference Include="..\MySql.Tutorial.Models\MySql.Tutorial.Models.csproj" />
     <ProjectReference Include="..\MySql.Tutorial.Serialization\MySql.Tutorial.Serialization.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Home\" />
   </ItemGroup>
 
 

@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySql.Tutorial.Serializatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySql.Tutorial.Web", "MySql.Tutorial.Web\MySql.Tutorial.Web.csproj", "{0875A313-7800-40EB-BB06-6652E35C5EA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql.Tutorial.EntityFramework", "MySql.Tutorial.EntityFramework\MySql.Tutorial.EntityFramework.csproj", "{970828D6-7510-4DAA-B7E8-4578840A6384}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySql.Tutorial.EntityFramework", "MySql.Tutorial.EntityFramework\MySql.Tutorial.EntityFramework.csproj", "{970828D6-7510-4DAA-B7E8-4578840A6384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql.Tutorial.Razor", "MySql.Tutorial.Razor\MySql.Tutorial.Razor.csproj", "{BF141AD5-5468-4288-B18C-B50C5F029B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql.Tutorial.Mvc", "MySql.Tutorial.Mvc\MySql.Tutorial.Mvc.csproj", "{F0A3FBCA-40A4-448F-886F-1F60FA78AC95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{970828D6-7510-4DAA-B7E8-4578840A6384}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{970828D6-7510-4DAA-B7E8-4578840A6384}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{970828D6-7510-4DAA-B7E8-4578840A6384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF141AD5-5468-4288-B18C-B50C5F029B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF141AD5-5468-4288-B18C-B50C5F029B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF141AD5-5468-4288-B18C-B50C5F029B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF141AD5-5468-4288-B18C-B50C5F029B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A3FBCA-40A4-448F-886F-1F60FA78AC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A3FBCA-40A4-448F-886F-1F60FA78AC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A3FBCA-40A4-448F-886F-1F60FA78AC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A3FBCA-40A4-448F-886F-1F60FA78AC95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
